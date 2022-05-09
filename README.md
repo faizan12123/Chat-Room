@@ -12,6 +12,8 @@ Chat-room is a python based terminal ran program that allows users to do the fol
 8. exit the program
 
 Here is the command menu:
+
+
     print("Enter the number of the command you would like to run")
     print("1. MyIp")
     print("2. MyPort")
