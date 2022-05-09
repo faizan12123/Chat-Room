@@ -25,9 +25,9 @@ Here is the command menu:
     print("***************************************")
 
 
-#Prerequisites:
+## Prerequisites:
 User must install python version 3.10.0 on their computer from https://www.python.org/downloads/ in order to run the files.
 
 
-#Running The Application:
+## Running The Application:
 User must launch a terminal and must enter the command, "python chat.py <port#>". Using the command "python" to run a python file could differ depending on how system variables have been intialized.
