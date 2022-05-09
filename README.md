@@ -22,7 +22,6 @@ Here is the command menu:
     print("5. Terminate <connection id>")
     print("6. Send <connection id> <message>")
     print("7. exit")
-    print("***************************************")
 
 
 ## Prerequisites:
